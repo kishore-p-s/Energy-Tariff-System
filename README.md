@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://github.com/Diwakar1819/vashist-hackathon"> ENERGY TARIFF SYSTEM </a><br>
+        <a href="[https://github.com/Diwakar1819/vashist-hackathon](https://github.com/kishore-p-s/Energy-Tariff-System.git)"> ENERGY TARIFF SYSTEM </a><br>
     </b>
     ⭐️Earn more Consume Less  ⭐️ <br>
 </h1>
@@ -10,14 +10,13 @@
 Our project aims to revolutionize energy management in households by implementing an innovative energy tariff system. By utilizing ESP32 microcontrollers, Firebase database, and electricity and voltage sensors, we accurately monitor energy consumption by individual components within a house. The system employs a predefined model to calculate monthly electricity costs, offering users detailed insights into their energy usage patterns and facilitating informed decisions for energy conservation and cost optimization.
 
 ## Team Details
-Team number : VH223
+Team number : VH222
 
 | Name    | Email           |
 |---------|-----------------|
-| Diwakar R | diwakarravikumar2004@gmail.com |
-| Balaji S | balajis07032005@gmail.com |
-| Ajay Nirmal C | ajaynirmal9962@gmail.com |
-| Faiz Mohammed A | faizmohammedfire@gmail.com |
+| Kishore P S | pskishore2020@gmail.com |
+| Vaishali B | vaishalib.ece2022@citchennai.net |
+| Harini G | harinig.ece2022@citchennai.net |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/Diwakar1819/vashist-hackathon/assets/154526900/8eb695d3-4e26-486d-9ba8-331469d8869f)" alt="Image 1" style="width: 30%; margin: 5px;">
