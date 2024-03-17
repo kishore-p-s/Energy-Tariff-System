@@ -1,25 +1,28 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="[https://github.com/Diwakar1819/vashist-hackathon](https://github.com/kishore-p-s/Energy-Tariff-System.git)"> ENERGY TARIFF SYSTEM </a><br>
+        <a href="https://github.com/Diwakar1819/vashist-hackathon"> ENERGY TARIFF SYSTEM </a><br>
     </b>
     ⭐️Earn more Consume Less  ⭐️ <br>
 </h1>
 
 # [`Demo video link `](https://youtu.be/LMi-X51Y_K0?si=3hq8c1hwJB9Zh1VM)
-    Our project aims to revolutionize energy management in households by implementing an innovative energy tariff system. By utilizing ESP32 microcontrollers, Firebase database, and electricity and voltage sensors, we accurately monitor energy consumption by individual components within a house. The system employs a predefined model to calculate monthly electricity costs, offering users detailed insights into their energy usage patterns and facilitating informed decisions for energy conservation and cost optimization.
+<h3>ENEGRGY TARRIF SYSTEM</h3>
+Our project aims to revolutionize energy management in households by implementing an innovative energy tariff system. By utilizing ESP32 microcontrollers, Firebase database, and electricity and voltage sensors, we accurately monitor energy consumption by individual components within a house. The system employs a predefined model to calculate monthly electricity costs, offering users detailed insights into their energy usage patterns and facilitating informed decisions for energy conservation and cost optimization.
 
 ## Team Details
-Team number : VH222
+Team number : VH223
 
 | Name    | Email           |
 |---------|-----------------|
-| Kishore P S | pskishore2020@gmail.com |
-| Vaishali B | vishalib.ece2022@citchennai.net |
-| Harini G | harinig.ece2022@citchennai.net |
+| Diwakar R | diwakarravikumar2004@gmail.com |
+| Balaji S | balajis07032005@gmail.com |
+| Ajay Nirmal C | ajaynirmal9962@gmail.com |
+| Faiz Mohammed A | faizmohammedfire@gmail.com |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://github.com/Diwakar1819/vashist-hackathon/assets/154526900/8eb695d3-4e26-486d-9ba8-331469d8869f)" alt="Image 1" style="width: 30%; margin: 5px;">
     <img src="https://github.com/Diwakar1819/vashist-hackathon/assets/154526900/d3111812-dc2f-4de8-a8bb-dfb9927b2a72" alt="Image 2" style="width: 30%; margin: 5px;">
+    
 </div>
 
 ## Problem statement 
@@ -41,8 +44,6 @@ Role in the Project:
 - Firebase: Stores energy consumption data and user information securely, enabling real-time access and analysis.
 - Electricity and Voltage Sensors: Measure energy consumption accurately, providing essential input for cost calculation.
 - Predefined Model: Calculates monthly electricity costs based on energy consumption data, providing users with insights into their electricity bills.
-
-
 
 # What's next ?
 Future Enhancements:
